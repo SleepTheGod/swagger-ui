@@ -123,7 +123,7 @@
     "eslint-plugin-react": "^7.20.0",
     "esm": "=3.2.25",
     "expect": "^1.20.2",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "file-loader": "^6.0.0",
     "git-describe": "^4.0.4",
     "http-server": "^0.12.3",
